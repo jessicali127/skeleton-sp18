@@ -17,3 +17,4 @@ public class TestArrayRingBuffer {
         jh61b.junit.textui.runClasses(TestArrayRingBuffer.class);
     }
 } 
+//testing
